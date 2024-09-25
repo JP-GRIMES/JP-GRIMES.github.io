@@ -13,6 +13,7 @@ p {
 body {
     background: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 50;
 }
 
 h1 {
@@ -24,18 +25,25 @@ h1 {
     background: linear-gradient(white, gray);
     font-weight: bold;
     color: black;
+    margin: 50;
 }
 
 .skills {
-    background: linear-gradient(gray, white);
+    background: linear-gradient(white, gray);
     font-weight: normal;
 }
 
 .projects {
-    background: red;
+    text-emphasis-color: white;
+    background: rgb(0, 0, 0);
+    padding: 25;
+    margin: 50;
+
 }
 
 .contact {
     text-align: center;
-
+    background: linear-gradient(white, gray);
+    border: black;
+    margin: 50px;
 }
