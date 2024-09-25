@@ -1,0 +1,41 @@
+p {
+    text-align: center;
+}
+
+#para1 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.about {
+    background: linear-gradient(white, gray);
+    font-weight: bold;
+    color: black;
+}
+
+.skills {
+    background: linear-gradient(gray, white);
+    font-weight: normal;
+}
+
+.projects {
+    background: red;
+}
+
+.contact {
+    text-align: center;
+
+}
