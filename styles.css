@@ -34,11 +34,12 @@ h1 {
 }
 
 .projects {
+    display:flex, flex-wrap:wrap;}
     text-emphasis-color: white;
     background: rgb(123, 123, 123);
-    padding: 25;
-    margin: 50;
-
+    padding: 20px 10px;
+    margin: 10;
+    border-radius:25%
 }
 
 .contact {
