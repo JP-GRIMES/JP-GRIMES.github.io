@@ -22,10 +22,29 @@ h1 {
 }
 
 .about {
+    display:flex;
+    flex-wrap:wrap;
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content:center;
     background: linear-gradient(white, gray);
     font-weight: bold;
     color: black;
     margin: 50;
+}
+
+.about img{
+    width:150px;
+    height:200px;
+    border-radius:25%;
+    border: 2px solid rbg(126,14,201);
+}
+
+.about p {
+    width:50%;
+    text-align:center;
+    margin:auto;
+    line-height:125%;
 }
 
 .skills {
@@ -34,7 +53,8 @@ h1 {
 }
 
 .projects {
-    display:flex, flex-wrap:wrap;}
+    display:flex;
+    flex-wrap:wrap;
     text-emphasis-color: white;
     background: rgb(123, 123, 123);
     padding: 20px 10px;
