@@ -21,6 +21,11 @@ h1 {
     text-align: center;
 }
 
+h1:hover{
+    color:white;
+    text-decoration: over underline;
+    text-underline-offset: 5px;
+
 .about {
     display:flex;
     flex-wrap:wrap;
