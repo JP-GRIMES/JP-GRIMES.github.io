@@ -67,7 +67,7 @@ h1:hover{
     border-radius:25%
 }
 
-.project{
+.project {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
@@ -84,11 +84,6 @@ h1:hover{
     margin:auto;
 }
 
-a{
-    text-decoration:none;
-    color:purple;
-}
-
 .project p{
     text-align:center;
     margin:15px;
@@ -99,4 +94,9 @@ a{
     background: linear-gradient(white, gray);
     border: black;
     margin: 50px;
+}
+
+a{
+    text-decoration:none;
+    color:purple;
 }
