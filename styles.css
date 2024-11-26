@@ -60,6 +60,9 @@ h1:hover{
 .projects{
     display:flex;
     flex-wrap:wrap;
+}
+
+.project {
     text-emphasis-color: white;
     background: rgb(123, 123, 123);
     padding: 20px 10px;
