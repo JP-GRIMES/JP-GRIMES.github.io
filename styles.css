@@ -1,22 +1,22 @@
-p {
+p{
     text-align: center;
 }
 
-#para1 {
+#para1{
     text-align: center;
 }
 
-.center {
+.center{
     text-align: center;
 }
 
-body {
+body{
     background: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
     margin: 50;
 }
 
-h1 {
+h1{
     color: black;
     text-align: center;
 }
@@ -26,7 +26,7 @@ h1:hover{
     text-decoration: over underline;
     text-underline-offset: 5px;
 
-.about {
+.about{
     display:flex;
     flex-wrap:wrap;
     margin-right: 100px;
@@ -45,19 +45,19 @@ h1:hover{
     border: 2px solid rbg(126,14,201);
 }
 
-.about p {
+.about p{
     width:50%;
     text-align:center;
     margin:auto;
     line-height:125%;
 }
 
-.skills {
+.skills{
     background: linear-gradient(white, gray);
     font-weight: normal;
 }
 
-.projects {
+.projects{
     display:flex;
     flex-wrap:wrap;
     text-emphasis-color: white;
@@ -81,7 +81,7 @@ h1:hover{
     margin:15px;
 }
     
-.contact {
+.contact{
     text-align: center;
     background: linear-gradient(white, gray);
     border: black;
