@@ -100,10 +100,14 @@ a{
 }
     
 .contact{
-    background: rgb(150,5,2);
+    background-color: #6A669D;
     justify-content:center;
     display:flex;
     flex-wrap:wrap;
+}
+
+.contact p{
+    color: white;
 }
 
 .contact a {
