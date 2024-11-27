@@ -4,6 +4,10 @@ body{
     margin: 50;
 }
 
+p{
+    color: #1C325B;
+}
+
 h1{
     color: #1C325B;
     text-align: center;
