@@ -57,7 +57,7 @@ p{
 }
 
 .skills{
-    background: garnet;
+    background: rgb(255, 87, 51);
     font-weight: normal;
 }
 
@@ -94,8 +94,8 @@ p{
 }
     
 .contact{
-    justify-content: center;
     background: garnet;
+    justify-content:center;
     border: black;
     margin: 50px;
     display:flex;
