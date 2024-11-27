@@ -1,11 +1,11 @@
 body{
-    background: rgb(190, 190, 190);
+    background-color: #E5E3D4;
     font-family: Arial, Helvetica, sans-serif;
     margin: 50;
 }
 
 h1{
-    color: black;
+    text-color: #1C325B;
     text-align: center;
 }
 
@@ -15,9 +15,14 @@ h1:hover{
     text-underline-offset: 5px;
 }
 
+h3{
+    text-align: center;
+    font-style: italic;
+}
+
 a{
     text-decoration: none;
-    color: rgb(50, 27, 35);
+    color: rgb(126, 14, 201);
 }
 
 .about a:hover{
@@ -32,7 +37,6 @@ a{
     margin-top: 40px;
     margin-bottom: 40px;
     justify-content:center;
-    background: garnet;
     font-weight: bold;
     color: black;
     margin: 50;
@@ -69,7 +73,7 @@ a{
 }
 
 .project{
-    background: rgb(150,5,2);
+    background: #9ABF80;
     padding: 20px 10px;
     margin: 10px;
     width:30%;
