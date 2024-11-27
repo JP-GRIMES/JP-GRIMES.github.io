@@ -95,7 +95,7 @@ p{
     
 .contact{
     justify-content: center;
-    background: linear-gradient(white, gray);
+    background: garnet;
     border: black;
     margin: 50px;
     display:flex;
