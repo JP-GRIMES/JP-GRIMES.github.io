@@ -4,16 +4,23 @@ body{
     margin: 50;
 }
 
-p{
-    color: #1C325B;
-}
-
 h1{
     color: #1C325B;
     text-align: center;
 }
 
 h1:hover{
+    color:white;
+    text-decoration: over underline;
+    text-underline-offset: 5px;
+}
+
+h2{
+    color: #1C325B;
+    text-align: center;
+}
+
+h2:hover{
     color:white;
     text-decoration: over underline;
     text-underline-offset: 5px;
