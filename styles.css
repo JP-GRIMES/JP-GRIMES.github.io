@@ -15,8 +15,13 @@ h1:hover{
     text-underline-offset: 5px;
 }
 
-p{
-    text-align: left;
+a{
+    text-decoration: none;
+    color: rgb(50, 27, 35);
+}
+
+.about a:hover{
+    color:white;
 }
 
 .about{
@@ -24,6 +29,8 @@ p{
     flex-wrap:wrap;
     margin-right: 100px;
     margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     justify-content:center;
     background: garnet;
     font-weight: bold;
@@ -36,10 +43,6 @@ p{
     height:200px;
     border-radius:25%;
     border: 2px solid rbg(126,14,201);
-}
-
-.about a:hover{
-    color:white;
 }
 
 .about p{
@@ -68,7 +71,7 @@ p{
 
 .project{
     text-emphasis-color: white;
-    background: garnet;
+    background:#FF5733;
     padding: 20px 10px;
     margin: 10;
     width:30%;
